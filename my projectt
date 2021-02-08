@@ -1,0 +1,9 @@
+public class HelloWorld 
+{
+	int sum, x,y;
+public static void main (string[] args)	
+  {
+	sum= x+y;
+	system.out.println("sum = "+ sum);
+  }
+}
